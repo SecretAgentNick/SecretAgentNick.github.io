@@ -1,0 +1,47 @@
+---
+layout: cv
+title: Nicholas Bastian's CV
+---
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
+
+<div id="webaddress">
+<a href="npbastian@byui.edu">isaac@applesdofall.org</a>
+</div>
+
+
+## Currently
+
+Standing on the shoulders of giants, and laying below the feet of the masters.
+
+### Specialized in
+
+Electrical Engineering, Fencing, [Game Devlopment](https://godotengine.org/)
+
+
+### Research interests
+
+Nuclear energy, PCB design
+
+
+## Education
+
+`2018-2024`
+__Cochise College, Arizona.__
+
+`2024 - now`
+__BYUI, Idaho__
+
+## Awards
+
+## Publications
+
+### Journals
+
+### Patents
+
+## Occupation
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
